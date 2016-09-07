@@ -1,8 +1,21 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+   Lawton Alan Plunkette (Alan is preferred)
 2. Why are you interested in Data Science?
+   I am interested in data science in order to help transform the maintenance process at my current firm.  We collect a ton of process data from sensors and equipment
+   used in the production process.  This data is currently only used as historical data.  An engineer may create some data trends from past data to assist in a root 
+   cause analysis AFTER a failure has occurred.  My vision is to use this data to predict when a failure is likely to occur based on what is happening in the process 
+   around critical pieces of equipment.  I would also like to lead an IIoT (Industrial Internet of Things) initiative at my firm to eventually create the infrastructure
+   needed to implement a network of smart connected assets.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+   I have taken a couple of courses in Visual Basic, a couple of courses in SQL and database administration, and I took a short Coursera course on R.  I program on the
+   job sparingly and only when I need to automate something.  This is mainly done in Excel and VBA.  
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+   I took Business Statistics I and II during my undergraduate program in Computer Information Systems.  I only use very common statistics on the job, such as mean,
+   median, and standard deviation.  I sometimes create simple data visualizations for my manager from SAP data.
 5.  Do you have other experience with R or Python?
+   I only have the one Coursera experience with R.  I have no experience with Python.
 6.  What do you hope to learn in this class?
+   I hope to learn to write efficient and readable code in R and Python for data analysis.  I would like to put these skills to use in my job.
 7.  Is there anything else you would like to share with us?
+   I am excited to begin this MSDS program at the University of Wisconsin.  
